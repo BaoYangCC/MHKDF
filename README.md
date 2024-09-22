@@ -1,5 +1,5 @@
 ## MHKDF
-Lightweight RGB-Crowd Counting Model
+A Mutual Head Knowledge Distillation Framework for Lightweight RGB-T Crowd Counting
 
 ## Trained weights
 Trained weights of MHKDF-T on RGBTCC dataset:https://pan.baidu.com/s/17pqDBOgeAcXHt0QQ8WXEIw?pwd=6666 
