@@ -1,6 +1,7 @@
 ## MHKDF
 Lightweight RGB-Crowd Counting Model
 
+## Trained weights
 Trained weights of MHKDF-T on RGBTCC dataset:https://pan.baidu.com/s/17pqDBOgeAcXHt0QQ8WXEIw?pwd=6666 
 Extraction code：6666
 
