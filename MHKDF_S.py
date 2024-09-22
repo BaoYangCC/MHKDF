@@ -56,7 +56,7 @@ class BasicConv2d(nn.Module):
 
 class MHKDF_S(nn.Module):
     def __init__(self, pretrained=True):
-        super(DEFNet_S, self).__init__()
+        super(MHKDF_S, self).__init__()
         self.upsample_add = upsample_add
         self.upsample = cus_sample
         seg_r = mit_b0()
