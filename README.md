@@ -1,6 +1,9 @@
 ## MHKDF
 A Mutual Head Knowledge Distillation Framework for Lightweight RGB-T Crowd Counting
 
+![image](https://github.com/user-attachments/assets/16aaac0f-8e7a-4fbb-968a-d8dec88cde80)
+
+
 ## Trained weights
 Trained weights of MHKDF-T on RGBTCC dataset:https://pan.baidu.com/s/17pqDBOgeAcXHt0QQ8WXEIw?pwd=6666 
 Extraction code：6666
